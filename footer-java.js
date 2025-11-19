@@ -45,8 +45,8 @@ document.addEventListener("DOMContentLoaded", () => {
   banner.className = "home-banner";
   banner.innerHTML = `
     <div>
-      <p style="margin:0 0 0.3rem 0;">phrase sur quizz.</p>
-      <a class="home-banner__link" href="https://autre-site.com" target="_blank" rel="noopener">
+      <p style="margin:0 0 0.3rem 0;">En savoir plus sur le café</p>
+      <a class="home-banner__link" href="https://www.culturequizz.com/quiz/quiz-special-cafe/" target="_blank" rel="noopener">
         Visiter le site
       </a>
     </div>
